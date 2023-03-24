@@ -7,5 +7,5 @@ Zipfile containing the 1700 txts: on [Google Drive](https://drive.google.com/fil
 | 0 | 76.18% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3lDUfyg3LlImTEhXd?e=c2TJZj) | Cat[high/low/middle] - Tokenizer needs fixing: numbers and punct. |
 | 1 | 75% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3lDnJfBP-e2P7FCoF?e=pmr5uZ) | Cat [high/low/middle] - Tokenizer fixed |
 | 2 | 55% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3lDuxE4w5Led5wV1o?e=ublfZC) | Proxy [1-10] |
-| 3 |  | [Link](https://1drv.ms/x/s!AuVPkhSveTP3lD_4DfAEYRd1QoIP?e=q0NrAA) | Cat [high/low/middle] |
+| 3 |  | [Link](https://1drv.ms/x/s!AuVPkhSveTP3lD_4DfAEYRd1QoIP?e=q0NrAA) | Cat [high/low/middle] - LinearSVC classifier|
 | 4 | 61.18% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3lD3vYhnTTCah6R2b?e=8UWcxU) | Proxy [1-10] - LinearSVC classifier|
