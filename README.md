@@ -11,5 +11,7 @@ Zipfile containing the 1700 txts: on [Google Drive](https://drive.google.com/fil
 | 4 | 61.18% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3lD3vYhnTTCah6R2b?e=8UWcxU) | Proxy [1-10] - LinearSVC classifier|
 | 5 | 31.18% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3lEFWpl4-Aw-1sV2I?e=KwrnCA) | Proxy [1-10] - LinearSVC, RemoveFrequentTokens 0.10 too high, =baserate|
 | 6 | 31.00% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3lEOgbtfuNZuFSe6u?e=subzvx) | Proxy [1-10], RemoveFrequentTokens 0.05 too high, with ImportantWords [w*:0.5]
-| 7 | PENDING.00% | [Link]() | Proxy [1-10], RemoveFrequentTokens 0.02
-| 8 | PENDING.00% | [Link]() | Proxy [1-10], no RemoveFrequent, with ImportantWords (w:0.5)
+| 7 | 31.180% | No Link | Proxy [1-10], RemoveFrequentTokens needs fixing (0.2)
+| 8 | 62.65% | No Link | Proxy [1-10], no RemoveFrequent, with ImportantWords (w:0.5), Extracted token with coef needs fixing
+| 9 |
+
