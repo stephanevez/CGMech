@@ -13,5 +13,7 @@ Zipfile containing the 1700 txts: on [Google Drive](https://drive.google.com/fil
 | 6 | 31.00% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3lEOgbtfuNZuFSe6u?e=subzvx) | Proxy [1-10], RemoveFrequentTokens 0.05 too high, with ImportantWords [w*:0.5]
 | 7 | 31.180% | No Link | Proxy [1-10], RemoveFrequentTokens needs fixing (0.2)
 | 8 | 62.65% | No Link | Proxy [1-10], no RemoveFrequent, with ImportantWords (w:0.5), Extracted token with coef needs fixing
-| 9 |
+| 9 | 61.18% | No Link | Proxy [1-10], remove 0.5% most frequent (fixed), with important words (w:0.5), no tokens with coef
+| 10 | 61.18% | No Link | Proxy [1-10], remove 0.5% most frequent (fixed), with important words (w:0.1), no tokens with coef
+
 
