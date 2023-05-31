@@ -16,7 +16,7 @@ Zipfile containing the 1700 txts: on [Google Drive](https://drive.google.com/fil
 | 9 | 61.18% | No Link | Proxy [1-10], remove 0.5% most frequent (fixed), with important words (w:0.5), no tokens with coef
 | 10 | 61.18% | No Link | Proxy [1-10], remove 0.5% most frequent (fixed), with important words (w:0.1), no tokens with coef
 | 11 | 61.18% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3lG2sM_05W7u2-mvg?e=x4WZl7) | no RemoveFrequent, with important words (w:0.1)
-| 12 | 61.18% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3lG2sM_05W7u2-mvg?e=x4WZl7) | no RemoveFrequent, with important words w:0.5 -> same results!
+| 12 | 61.18% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3lF0P9xDX5Ewje1xx?e=MhCnsm) | no RemoveFrequent, with important words w:0.5 -> same results!
 
 
 
