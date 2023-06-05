@@ -19,7 +19,7 @@ Zipfile containing the 1700 txts: on [Google Drive](https://drive.google.com/fil
 | 12 | 61.18% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3lF0P9xDX5Ewje1xx?e=MhCnsm) | no RemoveFrequent, with important words w:0.5 -> same results!
 | 13 | --- | No Link | 1st try gridsearch for optimizing ImportantWords weight --> takes too much ressource
 | 14 | --- | No Link | 2nd try gridsearch, train on 20% dataset --> still too much ressource
-| 15 | 61.59% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3lgSfvGeFzapXRIV5?e=6HsOjQ) | NEW DATASET - "auto" train, no important words
+| 15 | 61.59% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3lgSfvGeFzapXRIV5?e=6HsOjQ) | NEW DATASET - "auto" train, no important words, 2h37
 
 
 
