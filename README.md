@@ -21,7 +21,7 @@ Zipfile containing the 1700 txts: on [Google Drive](https://drive.google.com/fil
 | 14 | --- | No Link | 2nd try gridsearch, train on 20% dataset --> still too much ressource
 | 15 | 61.59% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3lgSfvGeFzapXRIV5?e=6HsOjQ) | NEW DATASET - "auto" train, no important words
 | 16 | 61.59% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3lgaTl7h_DEwoY2En?e=cSyghj) | With ImportantWords (w:custom) -> no improvement!
-| 17 | --- | [Link](https://github.com/stephanevez/CGMech/blob/7fa7dd80b5cbd79ed0d2154d94a6e6a6bd0f2bf6/SpacyEntities.txt) | | Entity detection with spacy: failed
+| 17 | --- | [Link](https://github.com/stephanevez/CGMech/blob/7fa7dd80b5cbd79ed0d2154d94a6e6a6bd0f2bf6/SpacyEntities.txt) | Entity detection with spacy: failed
 
 
 
