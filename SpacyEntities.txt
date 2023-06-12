@@ -1,0 +1,114 @@
+Entity Type: 
+Top 20 most frequent tokens:
+c
+synthes
+e
+o
+b
+group
+r
+financial
+f
+share
+asset
+year
+n
+board
+l
+december
+million
+report
+value
+d
+
+Entity Type: ORG
+Top 20 most frequent tokens:
+dormakaba
+financial
+year
+group
+share
+chf
+board
+committee
+member
+compensation
+report
+directors
+statement
+holding
+ag
+executive
+asset
+end
+audit
+company
+
+Entity Type: DATE
+Top 20 most frequent tokens:
+dottikon
+es
+group
+ag
+year
+net
+annual
+condense
+management
+report
+chf
+development
+income
+head
+board
+e
+share
+member
+balance
+chemical
+
+Entity Type: PERSON
+Top 20 most frequent tokens:
+group
+financial
+chf
+gavazzi
+carlo
+share
+asset
+income
+year
+statement
+total
+board
+net
+consolidated
+cost
+march
+liability
+company
+cash
+value
+
+Entity Type: GPE
+Top 20 most frequent tokens:
+implenia
+chf
+year
+board
+group
+financial
+construction
+share
+business
+directors
+statement
+company
+million
+total
+asset
+member
+project
+work
+remuneration
+switzerland
