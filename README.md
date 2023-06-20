@@ -24,13 +24,15 @@ Zipfile containing the 1700 txts: on [Google Drive](https://drive.google.com/fil
 | 17 | --- | [Link](https://github.com/stephanevez/CGMech/blob/7fa7dd80b5cbd79ed0d2154d94a6e6a6bd0f2bf6/SpacyEntities.txt) | Entity detection with spacy: failed
 | 18 | 65.08% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3liNksMVtPJpuSWqK?e=JL2Ldk) | include 2-grams -> accuracy improves
 | 19 | 61.27% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3lir2vwrGynSrZt4h?e=o1hsQX) | only 1 word tokens, ignore_companies -> accuracy decreases
-| 20 | pending | [Link](https://1drv.ms/x/s!AuVPkhSveTP3ljHzaIlVwRcinksL?e=hdZ5TK) | only 1 word tokens, ignore_companiesv2
-| 21 | 61.59% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3li9StthyhuSdlc58?e=0pTW25) | only 1 word tokens, ignore_foreign -> same accuracy as "auto"
+| 20 | 61.27% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3ljMaG5cDEXgvmvFn?e=qoMYkk) | only 1 word tokens, ignore_companiesv2 -> not better
+| 21 | 61.59% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3ljHzaIlVwRcinksL?e=bzqFij) | only 1 word tokens, ignore_foreign -> same accuracy as "auto"
 | 22 | 62.86% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3li9StthyhuSdlc58?e=0pTW25) | only 1 word tokens, ignore_abbrev -> accuracy improves
+| 23 | pending | [Link]() | only 1 word tokens, ignore_locations
+| 24 | pending | [Link]() | only 1 word tokens, ignore_surnames
 
 
 
-
+https://1drv.ms/x/s!AuVPkhSveTP3ljHzaIlVwRcinksL?e=hdZ5TK
 
 
 
