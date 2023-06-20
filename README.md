@@ -23,13 +23,13 @@ Zipfile containing the 1700 txts: on [Google Drive](https://drive.google.com/fil
 | 16 | 61.59% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3lgaTl7h_DEwoY2En?e=cSyghj) | With ImportantWords (w:custom) -> no improvement!
 | 17 | --- | [Link](https://github.com/stephanevez/CGMech/blob/7fa7dd80b5cbd79ed0d2154d94a6e6a6bd0f2bf6/SpacyEntities.txt) | Entity detection with spacy: failed
 | 18! | 65.08% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3liNksMVtPJpuSWqK?e=JL2Ldk) | include 2-grams -> accuracy improves
-| 19 | 61.27% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3lir2vwrGynSrZt4h?e=o1hsQX) | 1-word tokens, ignore_companies -> accuracy decreases
-| 20 | 61.27% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3ljMaG5cDEXgvmvFn?e=qoMYkk) | 1-word tokens, ignore_companiesv2 -> not better
-| 21 | 61.59% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3ljHzaIlVwRcinksL?e=bzqFij) | 1-word tokens, ignore_foreign -> same accuracy as "auto"
+| 19 | 61.27% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3lir2vwrGynSrZt4h?e=o1hsQX) | 1-word tokens, ignore_companies -> worse
+| 20 | 61.27% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3ljMaG5cDEXgvmvFn?e=qoMYkk) | 1-word tokens, ignore_companiesv2 -> still no improvement
+| 21 | 61.59% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3ljHzaIlVwRcinksL?e=bzqFij) | 1-word tokens, ignore_foreign -> baseline
 | 22! | 62.86% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3li9StthyhuSdlc58?e=0pTW25) | 1-word tokens, ignore_abbrev -> accuracy improves
-| 23 | pending | [Link]() | 1-word tokens, ignore_locations
-| 24 | pending | [Link]() | 1-word tokens, ignore_surnames
-| 25 | pending | [Link]() | 1-word tokens, ignore_foreign+ignore_abbrev
+| 23 | 61.59% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3ljVUciHyYsjgZdip?e=YleMv4) | 1-word tokens, ignore_locations -> baseline
+| 24 | 61.59% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3ljf0zwN2qmwxDG82?e=vfpnWv) | 1-word tokens, ignore_surnames -> baseline
+| 25 | 62.86% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3ljn_OlI1dRLgV-dH?e=udacEs) | 1-word tokens, ignore_foreign+ignore_abbrev -> same as 22
 | 26 | pending | [Link]() | 1-word tokens, ignore_foreign+ignore_abbrev+ignore_companiesv2
 | 27 | pending | [Link]() | 1-word tokens, ignore_foreign+ignore_abbrev+ignore_locations
 | 28 | pending | [Link]() | 1-word tokens, ignore_foreign+ignore_abbrev+ignore_surnames
