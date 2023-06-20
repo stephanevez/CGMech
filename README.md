@@ -17,13 +17,20 @@ Zipfile containing the 1700 txts: on [Google Drive](https://drive.google.com/fil
 | 10 | 61.18% | No Link | Proxy [1-10], remove 0.5% most frequent (fixed), with important words (w:0.1), no tokens with coef
 | 11 | 61.18% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3lG2sM_05W7u2-mvg?e=x4WZl7) | no RemoveFrequent, with important words (w:0.1)
 | 12 | 61.18% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3lF0P9xDX5Ewje1xx?e=MhCnsm) | no RemoveFrequent, with important words w:0.5 -> same results!
-| 13 | --- | No Link | 1st try gridsearch for optimizing ImportantWords weight --> takes too much ressource
-| 14 | --- | No Link | 2nd try gridsearch, train on 20% dataset --> still too much ressource
+| 13 | --- | No Link | 1st try gridsearch for optimizing ImportantWords weight -> takes too much ressource
+| 14 | --- | No Link | 2nd try gridsearch, train on 20% dataset -> still too much ressource
 | 15 | 61.59% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3lgSfvGeFzapXRIV5?e=6HsOjQ) | NEW DATASET - "auto" train, no important words
 | 16 | 61.59% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3lgaTl7h_DEwoY2En?e=cSyghj) | With ImportantWords (w:custom) -> no improvement!
 | 17 | --- | [Link](https://github.com/stephanevez/CGMech/blob/7fa7dd80b5cbd79ed0d2154d94a6e6a6bd0f2bf6/SpacyEntities.txt) | Entity detection with spacy: failed
 | 18 | 65.08% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3liNksMVtPJpuSWqK?e=JL2Ldk) | include 2-grams -> accuracy improves
-| 19 | 61.27% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3lir2vwrGynSrZt4h?e=o1hsQX) | only 1 word tokens, Excluded_Companies_v1
+| 19 | 61.27% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3lir2vwrGynSrZt4h?e=o1hsQX) | only 1 word tokens, ignore_companies -> accuracy decreases
+| 20 | pending | [Link](https://1drv.ms/x/s!AuVPkhSveTP3ljHzaIlVwRcinksL?e=hdZ5TK) | only 1 word tokens, ignore_companiesv2
+| 21 | 61.59% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3li9StthyhuSdlc58?e=0pTW25) | only 1 word tokens, ignore_foreign -> same accuracy as "auto"
+| 22 | 62.86% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3li9StthyhuSdlc58?e=0pTW25) | only 1 word tokens, ignore_abbrev -> accuracy improves
+
+
+
+
 
 
 
