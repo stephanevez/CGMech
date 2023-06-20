@@ -29,10 +29,10 @@ Zipfile containing the 1700 txts: on [Google Drive](https://drive.google.com/fil
 | 22 | 62.86% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3li9StthyhuSdlc58?e=0pTW25) | only 1 word tokens, ignore_abbrev -> accuracy improves
 | 23 | pending | [Link]() | only 1 word tokens, ignore_locations
 | 24 | pending | [Link]() | only 1 word tokens, ignore_surnames
-
-
-
-https://1drv.ms/x/s!AuVPkhSveTP3ljHzaIlVwRcinksL?e=hdZ5TK
+| 25 | pending | [Link]() | only 1 word tokens, ignore_foreign+ignore_abbrev
+| 26 | pending | [Link]() | only 1 word tokens, ignore_foreign+ignore_abbrev+ignore_companiesv2
+| 27 | pending | [Link]() | only 1 word tokens, ignore_foreign+ignore_abbrev+ignore_locations
+| 28 | pending | [Link]() | only 1 word tokens, ignore_foreign+ignore_abbrev+ignore_surnames
 
 
 
