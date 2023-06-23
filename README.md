@@ -33,6 +33,8 @@ Zipfile containing the 1700 txts: on [Google Drive](https://drive.google.com/fil
 | 26 | pending | [Link]() | 1-word tokens, ignore_foreign+ignore_abbrev+ignore_companiesv2
 | 27 | 62.86% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3ljtwb3wnty3aCcw2?e=iNQKJK) | 1-word tokens, ignore_foreign+ignore_abbrev+ignore_locations -> same as 22
 | 28 | 62.86% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3ljxndS1UxtQ72d9c?e=TpnSWc) | 1-word tokens, ignore_foreign+ignore_abbrev+ignore_surnames -> same as 22
+| 29 | 25.40% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3lkMkVBGyQNTuu1XR?e=NQyZTK) | 2-grams, ignore_foreign+ignore_abbrev+ignore_surnames+ignore_locations+ignore_companiesv2 -> need fixing
+| 30 | 46.35% | [Link](https://1drv.ms/x/s!AuVPkhSveTP3lkQ38TEDdQEVshwq?e=xJbIUI) | 2-grams, ignore_foreign+ignore_abbrev+ignore_surnames+ignore_locations+ignore_companiesv2 -> need fixing
 
 
 
